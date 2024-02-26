@@ -51,6 +51,4 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/jagadeeshwaranS21/jagadeeshwaranS21/output/snake.svg" alt="Snake animation" />
-
 ###
